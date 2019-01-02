@@ -22,3 +22,4 @@ openwrt very simple script
 Wiki для Ubuntu
 +
 UniFi Controller Works!+
++2 На Xiaomi mini(Padavan) работает! На Xiaomi R3G(Padavan) работает!
